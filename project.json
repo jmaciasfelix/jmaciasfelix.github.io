@@ -2,7 +2,7 @@
   {
     "_id": "5f298d3167f3172e4b82b28d",
     "table": {
-      "stack": ["HTML", "CSS", "Javascript", "AOS js"],
+      "stack": ["HTML & CSS", "JavaScript", "AOS.js"],
       "repository": "https://github.com/jmaciasfelix/web-personal-MO",
       "live": "https://mariaoneto.es/"
     },
@@ -43,7 +43,7 @@
   {
     "_id": "5f298f2f67f3172e4b82b28e",
     "table": {
-      "stack": ["React", "Netlify", "Pendiente"],
+      "stack": ["HTML & CSS", "JavaScript", "React"],
       "repository": "https://github.com/jmaciasfelix/LetrasCancionesReact",
       "live": "https://mystifying-snyder-7b1bdc.netlify.app/"
     },
