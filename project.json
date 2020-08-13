@@ -7,9 +7,9 @@
       "live": "https://mariaoneto.es/"
     },
     "imgs": {
-      "img-landing": "https://imgur.com/yR7NF5f.png",
-      "img-medium": "https://imgur.com/yR7NF5fl.png",
-      "img": "https://imgur.com/og9qe4I.png"
+      "img-landing": "/img/maria-landing.jpeg",
+      "img-medium": "/img/maria-medium.jpeg",
+      "img": "/img/maria-img.png"
     },
     "name": "María Oneto",
     "nameURL": "MariaOneto",
@@ -49,9 +49,9 @@
       "live": "https://mystifying-snyder-7b1bdc.netlify.app/"
     },
     "imgs": {
-      "img-landing": "https://imgur.com/2nL3quL.png",
-      "img-medium": "https://imgur.com/2nL3quLl.png",
-      "img": "https://imgur.com/IFt6EKi.png"
+      "img-landing": "/img/musica-landing.png",
+      "img-medium": "/img/musica-medium.jpeg",
+      "img": "/img/musica-img.jpeg"
     },
     "name": "Buscador Letras Canciones",
     "nameURL": "Buscador_Letras_Canciones",
@@ -91,9 +91,9 @@
       "live": "https://loving-bassi-e8b1bc.netlify.app/"
     },
     "imgs": {
-      "img-landing": "https://imgur.com/ws3KaRX.png",
-      "img-medium": "https://imgur.com/ws3KaRXl.png",
-      "img": "https://imgur.com/vYg0yaS.png"
+      "img-landing": "/img/recetas-landing.jpeg",
+      "img-medium": "/img/recetas-medium.jpeg",
+      "img": "/img/recetas-img.jpeg"
     },
     "name": "Buscador Recetas Bebida",
     "nameURL": "Buscador_Recetas_Bebida",
@@ -133,9 +133,9 @@
       "live": "http://url-shortening.jmaciasfelix.vercel.app/"
     },
     "imgs": {
-      "img-landing": "https://imgur.com/K9ZLX2o.png",
-      "img-medium": "https://imgur.com/K9ZLX2ol.png",
-      "img": "https://imgur.com/c3tVf5f.png"
+      "img-landing": "/img/url-landing.png",
+      "img-medium": "/img/url-medium.jpeg",
+      "img": "/img/url-img.png"
     },
     "name": "URL shortening",
     "nameURL": "URL_Shortening",
